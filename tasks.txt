@@ -1,0 +1,3 @@
+Buy groceries|✗
+Read book|✓
+Finish Python assignment|✗
